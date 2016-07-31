@@ -1,0 +1,1062 @@
+fileFormatVersion: 2
+guid: e9a01cdbb9082484884755cd9675e62b
+timeCreated: 1469636746
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_enemies 1_0
+    21300002: spritesheet_enemies 1_1
+    21300004: spritesheet_enemies 1_2
+    21300006: spritesheet_enemies 1_3
+    21300008: spritesheet_enemies 1_4
+    21300010: spritesheet_enemies 1_5
+    21300012: spritesheet_enemies 1_6
+    21300014: spritesheet_enemies 1_7
+    21300016: spritesheet_enemies 1_8
+    21300018: spritesheet_enemies 1_9
+    21300020: spritesheet_enemies 1_10
+    21300022: spritesheet_enemies 1_11
+    21300024: spritesheet_enemies 1_12
+    21300026: spritesheet_enemies 1_13
+    21300028: spritesheet_enemies 1_14
+    21300030: spritesheet_enemies 1_15
+    21300032: spritesheet_enemies 1_16
+    21300034: spritesheet_enemies 1_17
+    21300036: spritesheet_enemies 1_18
+    21300038: spritesheet_enemies 1_19
+    21300040: spritesheet_enemies 1_20
+    21300042: spritesheet_enemies 1_21
+    21300044: spritesheet_enemies 1_22
+    21300046: spritesheet_enemies 1_23
+    21300048: spritesheet_enemies 1_24
+    21300050: spritesheet_enemies 1_25
+    21300052: spritesheet_enemies 1_26
+    21300054: spritesheet_enemies 1_27
+    21300056: spritesheet_enemies 1_28
+    21300058: spritesheet_enemies 1_29
+    21300060: spritesheet_enemies 1_30
+    21300062: spritesheet_enemies 1_31
+    21300064: spritesheet_enemies 1_32
+    21300066: spritesheet_enemies 1_33
+    21300068: spritesheet_enemies 1_34
+    21300070: spritesheet_enemies 1_35
+    21300072: spritesheet_enemies 1_36
+    21300074: spritesheet_enemies 1_37
+    21300076: spritesheet_enemies 1_38
+    21300078: spritesheet_enemies 1_39
+    21300080: spritesheet_enemies 1_40
+    21300082: spritesheet_enemies 1_41
+    21300084: spritesheet_enemies 1_42
+    21300086: spritesheet_enemies 1_43
+    21300088: spritesheet_enemies 1_44
+    21300090: spritesheet_enemies 1_45
+    21300092: spritesheet_enemies 1_46
+    21300094: spritesheet_enemies 1_47
+    21300096: spritesheet_enemies 1_48
+    21300098: spritesheet_enemies 1_49
+    21300100: spritesheet_enemies 1_50
+    21300102: spritesheet_enemies 1_51
+    21300104: spritesheet_enemies 1_52
+    21300106: spritesheet_enemies 1_53
+    21300108: spritesheet_enemies 1_54
+    21300110: spritesheet_enemies 1_55
+    21300112: spritesheet_enemies 1_56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 90
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_enemies 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1918
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1918
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16.5}
+        - {x: -22, y: 13.5}
+        - {x: -22, y: -14.5}
+        - {x: -19, y: -16.5}
+        - {x: 22, y: -16.5}
+        - {x: 22, y: 13.5}
+        - {x: 20, y: 16.5}
+    - name: spritesheet_enemies 1_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1918
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 16.5}
+        - {x: -27.5, y: 2.5}
+        - {x: -27.5, y: -16.5}
+        - {x: 28.5, y: -16.5}
+        - {x: 28.5, y: 12.5}
+        - {x: 15.5, y: 16.5}
+    - name: spritesheet_enemies 1_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1942
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 21}
+        - {x: -22, y: 21}
+        - {x: -27, y: 17}
+        - {x: -28, y: 12}
+        - {x: -28, y: -15}
+        - {x: -22, y: -21}
+        - {x: 5, y: -21}
+        - {x: 21, y: -17}
+        - {x: 28, y: -9}
+        - {x: 28, y: 6}
+        - {x: 23, y: 16}
+    - name: spritesheet_enemies 1_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1788
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1784
+        width: 104
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1784
+        width: 108
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 17.5}
+        - {x: -27, y: 12.5}
+        - {x: -27, y: -17.5}
+        - {x: 25, y: -17.5}
+        - {x: 27, y: -14.5}
+        - {x: 27, y: 7.5}
+        - {x: 6, y: 17.5}
+    - name: spritesheet_enemies 1_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1812
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 21}
+        - {x: -22, y: 21}
+        - {x: -27, y: 17}
+        - {x: -28, y: 12}
+        - {x: -28, y: -15}
+        - {x: -22, y: -21}
+        - {x: 5, y: -21}
+        - {x: 21, y: -17}
+        - {x: 28, y: -9}
+        - {x: 28, y: 6}
+        - {x: 23, y: 16}
+    - name: spritesheet_enemies 1_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1658
+        width: 122
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1656
+        width: 106
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1658
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 16}
+        - {x: -27.5, y: 15}
+        - {x: -28.5, y: 10}
+        - {x: -28.5, y: -16}
+        - {x: 27.5, y: -16}
+        - {x: 28.5, y: -13}
+        - {x: 28.5, y: 6}
+        - {x: 18.5, y: 16}
+    - name: spritesheet_enemies 1_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1668
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 27.5}
+        - {x: -17, y: 18.5}
+        - {x: -21, y: 2.5}
+        - {x: -21, y: -19.5}
+        - {x: -11, y: -27.5}
+        - {x: 9, y: -27.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: 17.5}
+        - {x: 5, y: 27.5}
+    - name: spritesheet_enemies 1_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1528
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1528
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -18, y: 11}
+        - {x: -22, y: 8}
+        - {x: -22, y: -14}
+        - {x: -20, y: -16}
+        - {x: 22, y: -16}
+        - {x: 22, y: 11}
+        - {x: 15, y: 16}
+    - name: spritesheet_enemies 1_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1528
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 19.5}
+        - {x: -26.5, y: 1.5}
+        - {x: -26.5, y: -19.5}
+        - {x: 26.5, y: -19.5}
+        - {x: 26.5, y: 16.5}
+        - {x: 22.5, y: 19.5}
+    - name: spritesheet_enemies 1_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1538
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 27.5}
+        - {x: -17, y: 18.5}
+        - {x: -21, y: 2.5}
+        - {x: -21, y: -19.5}
+        - {x: -11, y: -27.5}
+        - {x: 9, y: -27.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: 17.5}
+        - {x: 5, y: 27.5}
+    - name: spritesheet_enemies 1_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1398
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1398
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16.5}
+        - {x: -22, y: 13.5}
+        - {x: -22, y: -14.5}
+        - {x: -19, y: -16.5}
+        - {x: 22, y: -16.5}
+        - {x: 22, y: 13.5}
+        - {x: 20, y: 16.5}
+    - name: spritesheet_enemies 1_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1398
+        width: 108
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -27, y: 12.5}
+        - {x: -27, y: -16.5}
+        - {x: 25, y: -16.5}
+        - {x: 27, y: -15.5}
+        - {x: 27, y: 13.5}
+        - {x: 19, y: 16.5}
+    - name: spritesheet_enemies 1_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1408
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -21, y: 20}
+        - {x: -21, y: -17}
+        - {x: -19, y: -22}
+        - {x: -8, y: -28}
+        - {x: 10, y: -28}
+        - {x: 21, y: -13}
+        - {x: 21, y: 14}
+        - {x: 14, y: 28}
+    - name: spritesheet_enemies 1_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1264
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17.5}
+        - {x: -20, y: 10.5}
+        - {x: -20, y: -12.5}
+        - {x: -13, y: -17.5}
+        - {x: 6, y: -17.5}
+        - {x: 12, y: -16.5}
+        - {x: 20, y: -11.5}
+        - {x: 20, y: 11.5}
+        - {x: 12, y: 17.5}
+    - name: spritesheet_enemies 1_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1268
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21.5}
+        - {x: -25, y: -21.5}
+        - {x: 25, y: -21.5}
+        - {x: 25, y: 20.5}
+        - {x: 24, y: 21.5}
+    - name: spritesheet_enemies 1_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1268
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -18}
+        - {x: -16, y: -25}
+        - {x: 28, y: -25}
+        - {x: 28, y: -11}
+        - {x: 13, y: 22}
+        - {x: 2, y: 25}
+        - {x: -25, y: 25}
+        - {x: -28, y: 23}
+    - name: spritesheet_enemies 1_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1294
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 19}
+        - {x: -28, y: -8}
+        - {x: -24, y: -19}
+        - {x: 26, y: -19}
+        - {x: 28, y: -14}
+        - {x: 28, y: 19}
+    - name: spritesheet_enemies 1_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1138
+        width: 112
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18.5}
+        - {x: -18, y: 14.5}
+        - {x: -28, y: -2.5}
+        - {x: -28, y: -18.5}
+        - {x: 28, y: -18.5}
+        - {x: 28, y: 17.5}
+        - {x: 24, y: 18.5}
+    - name: spritesheet_enemies 1_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1138
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+    - name: spritesheet_enemies 1_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1136
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -25.5}
+        - {x: 28, y: -25.5}
+        - {x: 28, y: -8.5}
+        - {x: 13, y: 21.5}
+        - {x: -2, y: 25.5}
+        - {x: -22, y: 25.5}
+        - {x: -28, y: 19.5}
+        - {x: -28, y: -10.5}
+        - {x: -13, y: -16.5}
+        - {x: 2, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 16, y: -20.5}
+        - {x: 16, y: -17.5}
+    - name: spritesheet_enemies 1_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1158
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22.5}
+        - {x: -26, y: 20.5}
+        - {x: -26, y: -18.5}
+        - {x: -13, y: -22.5}
+        - {x: 20, y: -22.5}
+        - {x: 26, y: -8.5}
+        - {x: 26, y: 15.5}
+        - {x: 19, y: 22.5}
+    - name: spritesheet_enemies 1_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1008
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 18.5}
+        - {x: -22.5, y: 17.5}
+        - {x: -26.5, y: 6.5}
+        - {x: -26.5, y: -18.5}
+        - {x: 25.5, y: -18.5}
+        - {x: 25.5, y: 11.5}
+        - {x: 17.5, y: 18.5}
+    - name: spritesheet_enemies 1_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1008
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 23.5}
+    - name: spritesheet_enemies 1_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1008
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18.5}
+        - {x: -14, y: 18.5}
+        - {x: -26, y: 6.5}
+        - {x: -26, y: -18.5}
+        - {x: 26, y: -18.5}
+        - {x: 26, y: 2.5}
+        - {x: 25, y: 5.5}
+    - name: spritesheet_enemies 1_31
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1028
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 22}
+        - {x: -26, y: -13}
+        - {x: -22, y: -21}
+        - {x: -18, y: -22}
+        - {x: 18, y: -22}
+        - {x: 26, y: -8}
+        - {x: 26, y: 17}
+        - {x: 23, y: 22}
+    - name: spritesheet_enemies 1_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 878
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 878
+        width: 114
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 900
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 21}
+        - {x: -27, y: -7}
+        - {x: -23, y: -17}
+        - {x: -16, y: -21}
+        - {x: 17, y: -21}
+        - {x: 27, y: -14}
+        - {x: 27, y: 21}
+    - name: spritesheet_enemies 1_35
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 878
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 26.5}
+        - {x: -23, y: 11.5}
+        - {x: -23, y: -26.5}
+        - {x: 23, y: -26.5}
+        - {x: 23, y: 16.5}
+        - {x: 16, y: 26.5}
+    - name: spritesheet_enemies 1_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 748
+        width: 116
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 776
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 18}
+        - {x: -30, y: -7}
+        - {x: -25, y: -18}
+        - {x: 27, y: -18}
+        - {x: 30, y: -11}
+        - {x: 30, y: 18}
+    - name: spritesheet_enemies 1_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 748
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27}
+        - {x: -23, y: 11}
+        - {x: -23, y: -27}
+        - {x: 23, y: -27}
+        - {x: 23, y: 23}
+        - {x: 14, y: 27}
+    - name: spritesheet_enemies 1_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 748
+        width: 104
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 618
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -18, y: 11}
+        - {x: -22, y: 8}
+        - {x: -22, y: -14}
+        - {x: -20, y: -16}
+        - {x: 22, y: -16}
+        - {x: 22, y: 11}
+        - {x: 15, y: 16}
+    - name: spritesheet_enemies 1_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 618
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_42
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 640
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 21}
+        - {x: -27, y: -7}
+        - {x: -23, y: -17}
+        - {x: -16, y: -21}
+        - {x: 17, y: -21}
+        - {x: 27, y: -14}
+        - {x: 27, y: 21}
+    - name: spritesheet_enemies 1_43
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 618
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 26.5}
+        - {x: -23, y: 11.5}
+        - {x: -23, y: -26.5}
+        - {x: 23, y: -26.5}
+        - {x: 23, y: 16.5}
+        - {x: 16, y: 26.5}
+    - name: spritesheet_enemies 1_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 488
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -18, y: 11}
+        - {x: -22, y: 8}
+        - {x: -22, y: -14}
+        - {x: -20, y: -16}
+        - {x: 22, y: -16}
+        - {x: 22, y: 11}
+        - {x: 15, y: 16}
+    - name: spritesheet_enemies 1_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 498
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28.5}
+        - {x: -28.5, y: 13.5}
+        - {x: -28.5, y: -14.5}
+        - {x: -19.5, y: -29.5}
+        - {x: 28.5, y: -29.5}
+        - {x: 28.5, y: 25.5}
+        - {x: 17.5, y: 28.5}
+    - name: spritesheet_enemies 1_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 512
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20.5}
+        - {x: -26, y: 10.5}
+        - {x: -26, y: -18.5}
+        - {x: -22, y: -20.5}
+        - {x: 0, y: -20.5}
+        - {x: 26, y: -12.5}
+        - {x: 26, y: 7.5}
+        - {x: 10, y: 20.5}
+    - name: spritesheet_enemies 1_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 496
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 29}
+        - {x: -30, y: 26}
+        - {x: -30, y: -20}
+        - {x: -28, y: -29}
+        - {x: 24, y: -29}
+        - {x: 30, y: -23}
+        - {x: 30, y: 29}
+    - name: spritesheet_enemies 1_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 358
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 366
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 29}
+        - {x: -30, y: -26}
+        - {x: -21, y: -29}
+        - {x: 25, y: -29}
+        - {x: 30, y: -15}
+        - {x: 30, y: 20}
+        - {x: 25, y: 29}
+    - name: spritesheet_enemies 1_50
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 382
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 21}
+        - {x: -22, y: 21}
+        - {x: -27, y: 17}
+        - {x: -28, y: 12}
+        - {x: -28, y: -15}
+        - {x: -22, y: -21}
+        - {x: 5, y: -21}
+        - {x: 21, y: -17}
+        - {x: 28, y: -9}
+        - {x: 28, y: 6}
+        - {x: 23, y: 16}
+    - name: spritesheet_enemies 1_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 228
+        width: 104
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spritesheet_enemies 1_53
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 252
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 21}
+        - {x: -22, y: 21}
+        - {x: -27, y: 17}
+        - {x: -28, y: 12}
+        - {x: -28, y: -15}
+        - {x: -22, y: -21}
+        - {x: 5, y: -21}
+        - {x: 21, y: -17}
+        - {x: 28, y: -9}
+        - {x: 28, y: 6}
+        - {x: 23, y: 16}
+    - name: spritesheet_enemies 1_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -18, y: 11}
+        - {x: -22, y: 8}
+        - {x: -22, y: -14}
+        - {x: -20, y: -16}
+        - {x: 22, y: -16}
+        - {x: 22, y: 11}
+        - {x: 15, y: 16}
+    - name: spritesheet_enemies 1_55
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16.5}
+        - {x: -26, y: 16.5}
+        - {x: -28, y: 12.5}
+        - {x: -28, y: -14.5}
+        - {x: -25, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 28, y: -11.5}
+        - {x: 28, y: 4.5}
+        - {x: 27, y: 6.5}
+    - name: spritesheet_enemies 1_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 122
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20.5}
+        - {x: -26, y: 10.5}
+        - {x: -26, y: -18.5}
+        - {x: -22, y: -20.5}
+        - {x: 0, y: -20.5}
+        - {x: 26, y: -12.5}
+        - {x: 26, y: 7.5}
+        - {x: 10, y: 20.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
