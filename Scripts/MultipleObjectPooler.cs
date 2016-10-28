@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -63,7 +63,7 @@ public class MultipleObjectPooler : MonoBehaviour {
 	*/
 	public GameObject getBullet(int id){
 
-		for(int count = 0; count < thePool[count].Count; count++){
+		for(int count = 0; count < thePool[id].Count; count++){
 			if(thePool[id][count].activeInHierarchy == false){
 				return thePool [id] [count];
 			}
