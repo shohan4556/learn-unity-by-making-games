@@ -105,12 +105,13 @@ public class Player : MonoBehaviour {
                 }
                 else if (Input.GetAxisRaw("Horizontal") == 0) {
                     print("jump off  ");
-                    playerBody.velocity = new Vector2(-wallDirection * 40f, 15f);
+                    playerBody.velocity = new Vector2(-wallDirection * 60f, 10f);
                 }
                 else {
                     // input opposite of wall direction 
                     print("wallleap");
-                    playerBody.velocity = new Vector2(-wallDirection * 18f, 12f);
+                    // press the space and opposite movement key at once when sliding 
+                    playerBody.velocity = new Vector2(-wallDirection * 30f, 12f);
                 }
             }
 
