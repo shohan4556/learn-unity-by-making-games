@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerTouchController : MonoBehaviour {
+public class TouchController : MonoBehaviour {
 
     private PlayerController theplayer;
    
