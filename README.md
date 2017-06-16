@@ -11,7 +11,10 @@ Learn Unity By Making Games!
  - Scripts 
 	 - Fade Screen
 	 - Touch Controller for mobile devices 
-	 - Multiple Object Pooling
+	 - Multiple Object Pooler
+     - Type Writer Text Effect
+     - Show Gizmo in Gameview
+     - Checkpoints Manager
 
 **Images**
 
