@@ -1,0 +1,22 @@
+{
+        "Question_01" :
+        {
+            "Ques" : "Which is correct ?",
+            "op1" : "Devoted to",
+            "op2" : "Devoted by",
+            "op3" : "Devoted on",
+            "op4" : "Devoted for",
+            "Answer" : "Devoted to"
+        },
+
+        "Question_02" :
+        {
+            "Ques" : "Select the correct answer ?",
+            "op1" : "D1",
+            "op2" : "D2",
+            "op3" : "D3",
+            "op4" : "D4",
+            "Answer" : "D2"
+        }
+}
+
