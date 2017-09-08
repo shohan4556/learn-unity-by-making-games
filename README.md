@@ -15,6 +15,10 @@ Learn Unity By Making Games!
      - Type Writer Text Effect
      - Show Gizmo in Gameview
      - Checkpoints Manager
+     - Simple Path Follower
+     - Object Dragging with Mouse
+     - Camera Shake Effect 
+     - Simple Timer
 
 **Images**
 
