@@ -19,6 +19,7 @@ Learn Unity By Making Games!
      - Object Dragging with Mouse
      - Camera Shake Effect 
      - Simple Timer
+	 - Simple Sliding Door
 
 **Images**
 
