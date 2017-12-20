@@ -1,0 +1,9 @@
+	Vector3 screenPos = Camera.main.WorldToViewportPoint (transform.position);
+
+        if (screenPos.x > 0 && screenPos.x < 1 && screenPos.y>0 && screenPos.y<1 && screenPos.z > 0) {
+            Debug.Log ("inside of screen");
+            isOutofScreen = false;
+        } else {
+ 	    Debug.Log ("outside of screen");
+            isOutofScreen = true;
+        }
