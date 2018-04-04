@@ -52,7 +52,7 @@ public class CharController : MonoBehaviour {
 
 		transform.Translate(transform.forward * currentSpeed * Time.deltaTime, Space.World);
 
-		float aniSpeed = ((running) ? 1: 0.5f ) * inputDir.magnitude; // values come form the locomotion blend tree
+		float aniSpeed = ((running) ? 1: 0.5f ) * inputDir.magnitude; // values same as the locomotion blend tree
 		animator.SetFloat("speed", aniSpeed, speedSmoothTime, Time.deltaTime);
 		
 
